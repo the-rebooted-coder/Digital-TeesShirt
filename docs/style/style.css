@@ -68,6 +68,7 @@ main{
     width: 105px;
     height: 105px;
     border: none;
+    margin-top: 15px;
     border-radius: 50%;
 }
 
