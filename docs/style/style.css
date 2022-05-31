@@ -27,7 +27,7 @@ h3{
 main{
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
-    background: linear-gradient(to right top, #232526, #414345);
+    background: linear-gradient(to right top, #ddd6f3, #faaca8);
     display: flex;
     align-items: center;
     justify-content: center;
